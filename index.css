@@ -5,3 +5,8 @@
 #inactive {
     color:crimson;
 }
+
+#flexbox {
+    display: flex;
+    flex-wrap: wrap;
+}
